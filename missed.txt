@@ -1,5 +1,0 @@
-4 25 33 time-gap 1
-4 55 33 coordinate-gap 1
-5 5 33 time-gap 1
-6 22 42 time-gap 2
-6 32 42 coordinate-gap 2
